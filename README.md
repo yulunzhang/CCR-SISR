@@ -18,7 +18,7 @@ Anchored Neighborhood Regression for Fast Example-Based Super-Resolution, ICCV 2
 [3] Yulun Zhang, Yongbing Zhang, Jian Zhang, and Qionghai Dai:
 CCR: Clustering and collaborative representation for fast single image super-resolution, TMM 2016.
 
-@article{zhang2015ccr,
+@article{zhang2016ccr,
   title={CCR: Clustering and collaborative representation for fast single image super-resolution},
   author={Zhang, Yulun and Zhang, Yongbing and Zhang, Jian and Wang, Haoqian and Dai, Qiongdai},
   journal={{IEEE} Trans. Multimedia},
